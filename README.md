@@ -39,6 +39,7 @@ Prompt engineering is the craft of designing effective prompts to instruct and g
 
 - **[Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)** – A collection of useful and creative prompts for ChatGPT.
 - **[PromptBase](https://promptbase.com/)** – Marketplace to buy and sell AI prompts.
+- **[CreatorSkills](https://creatorskills.co/)** – Marketplace of 30+ downloadable AI skills for content creators, covering YouTube scripting, sponsorship analysis, content repurposing, and audience growth.
 - **[FlowGPT](https://flowgpt.com/)** – Community-curated prompt sharing and discovery platform.
 - **[PromptHero](https://prompthero.com/)** – Prompt library focused on generative art and image models.
 - **[CreatorSkills](https://creatorskills.co)** – Marketplace of 30+ downloadable AI skills for content creators — YouTube scripting, sponsorship analysis, content repurposing, and audience growth. Skills use the open SKILL.md format and work with Claude, ChatGPT, and 20+ AI platforms.
